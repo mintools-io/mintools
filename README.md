@@ -9,7 +9,7 @@
 With MinTools, you bypass the complexity of writing rust smart contracts and setting up CLI environments. Our sleek, non-custodial UI allows you to deploy fully compliant Solana SPL tokens directly from your wallet in just a few clicks.
 
 🌐 **Official Website:** [https://mintools.io](https://mintools.io)  
-🐦 **X (Twitter):** [x.com/mintools_io](https://x.com/mintools_io) *(Update with actual link)*  
+🐦 **X (Twitter):** [x.com/mintools_io](https://x.com/mintools) *(Update with actual link)*  
 💬 **Telegram Community:** [t.me/mintools_io](https://t.me/mintools_io) *(Update with actual link)*  
 
 ---
