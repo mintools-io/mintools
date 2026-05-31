@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/mintools_promo_banner.png" alt="MinTools Solana Token Creator Banner" width="100%">
+  <br />
+  <br />
+  <img src="assets/logo.png" alt="MinTools Logo" width="150" height="150">
   <h1>MinTools | The Ultimate Solana Token Creator & Utility Suite</h1>
   <p><strong>Create, Launch, and Manage Solana SPL Tokens in Seconds — No Coding Required.</strong></p>
   <br />
@@ -9,8 +13,8 @@
 With MinTools, you bypass the complexity of writing rust smart contracts and setting up CLI environments. Our sleek, non-custodial UI allows you to deploy fully compliant Solana SPL tokens directly from your wallet in just a few clicks.
 
 🌐 **Official Website:** [https://mintools.io](https://mintools.io)  
-🐦 **X (Twitter):** [x.com/mintools_io](https://x.com/mintools) *(Update with actual link)*  
-💬 **Telegram Community:** [t.me/mintools_io](https://t.me/mintools_io) *(Update with actual link)*  
+🐦 **X (Twitter):** [x.com/mintools](https://x.com/mintools)  
+💬 **Telegram Community:** [t.me/mintools](https://t.me/mintools)  
 
 ---
 
